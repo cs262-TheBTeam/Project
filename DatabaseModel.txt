@@ -1,0 +1,7 @@
+CodeBuilding(code PK, name varchar)										--Links building names to building codes
+
+Room(IDRoom PK, buildingCode FK to CodeBuilding, roomNumber varchar)	--Contains room number and building code for each room/question
+
+ImageLink(IDImageLink PK, roomID FK to Room, imagePath varchar)			--Record for each picture, links to Room. Will either contian filepath to image or contain the image itself
+
+Player(IDPlayer PK, name varchar, score integer)						--Player from the scoreboard
