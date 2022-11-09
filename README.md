@@ -9,7 +9,7 @@ How well do you know Calvin campus? Want to compete with your friends to see who
 
 [Client Repo](https://github.com/cs262-TheBTeam/Client)
 
-[Service Repo](https://github.com/calvin-cs262-fall2022-teamG/Service0
+[Service Repo](https://github.com/calvin-cs262-fall2022-teamG/Service0)
 
 ## Team Members: 
 
