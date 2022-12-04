@@ -7,7 +7,7 @@ We're currently working to include as many classrooms as possible from all the b
 
 [UI Design Model](https://github.com/cs262-TheBTeam/Project/blob/main/UI%20Model.jpg)
 
-[UML Design Model](https://github.com/cs262-TheBTeam/Project/blob/main/DomainModel.png)
+[Domain Model](https://github.com/cs262-TheBTeam/Project/blob/main/DomainModel.png)
 
 [Client Repo](https://github.com/cs262-TheBTeam/Client)
 
